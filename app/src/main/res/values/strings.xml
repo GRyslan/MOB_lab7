@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Lab7</string>
+    <string name="home_lbl"><pre>Головенець Руслан\nГрупа ІВ-83\nЗК ІВ-8305</pre></string>
+    <string name="tab_text_1">General</string>
+    <string name="tab_text_2">Drawing</string>
+    <string name="tab_text_3">Books list</string>
+    <string name="tab_text_4">Image list</string>
+    <string name="title_placeholder">Untitled</string>
+    <string name="subtitle_placeholder">No subtitle</string>
+    <string name="isbn_placeholder">ISBN not provided</string>
+    <string name="price_placeholder">0.00 USD</string>
+    <string name="isbn"><pre>ISBN13: </pre></string>
+    <string name="no_cover">No cover available</string>
+    <string name="authors"><pre>Authors: </pre></string>
+    <string name="publisher"><pre>Publisher: </pre></string>
+    <string name="year"><pre>Year: </pre></string>
+    <string name="pages"><pre>Pages: </pre></string>
+    <string name="rating"><pre>Rating: </pre></string>
+    <string name="nia">NIA</string>
+    <string name="desc"><pre>Description:</pre></string>
+    <string name="desc_placeholder">No description provided.</string>
+    <string name="outof5"><pre> / 5</pre></string>
+    <string name="noResults"><pre>Nothing was found...</pre></string>
+    <string name="title"><pre>Title: </pre></string>
+    <string name="subtitle"><pre>Subtitle: </pre></string>
+    <string name="price"><pre>Price: </pre></string>
+    <string name="title_hint"><pre>Enter book title</pre></string>
+    <string name="subtitle_hint"><pre>Enter book subtitle</pre></string>
+    <string name="isbn_hint"><pre>Enter book isbn13</pre></string>
+    <string name="price_hint"><pre>Enter book price in USD. Format: 0.00</pre></string>
+    <string name="addBook">Add Book</string>
+    <string name="noTitle">Please, enter book title</string>
+    <string name="invalidISBN">Invalid ISBN. Should be 13 digits.</string>
+    <string name="priceNAN">Invalid price. Please enter in format 0.00</string>
+    <string name="delete_confirm">Confirm deletion</string>
+</resources>
